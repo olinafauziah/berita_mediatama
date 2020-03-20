@@ -22,14 +22,14 @@
         </div>
     </li> -->
     <li class="nav-item">
-        <a class="nav-link" href="admin.php">
+        <a class="nav-link" href="index.php?page=admin">
             <i class="fas fa-fw fa-user"></i>
             <span>Admin</span></a>
     </li>
     <li class="nav-item">
         <a class="nav-link" href="kategori.php">
             <i class="fas fa-fw fa-chart-area"></i>
-            <span>Kategori </span></a>
+            <span>Kategori b</span></a>
     </li>
     <li class="nav-item">
         <a class="nav-link" href="berita.php">

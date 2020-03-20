@@ -18,7 +18,7 @@
     <div id="content-wrapper">
 
       <!-- home.php -->
-      <?php include 'home.php' ?>
+      <?php include 'content.php' ?>
 
       <!-- /.container-fluid -->
 
